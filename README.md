@@ -4,7 +4,7 @@
 ### This repository provides tutorial code for deep learning researchers to learn PyTorch.
 
 
-### Table Of Contents
+### Contents
 
 - [Training a Convolutional Neural Network (CNN)](https://github.com/mahfujur1/PyTorch-Tutorials/blob/master/cnn-training-mnist.ipynb) 
   [[Video]](https://youtu.be/VdC6sdWWW74)
