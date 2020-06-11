@@ -7,7 +7,7 @@
 ### Table Of Contents
 
 - [Training a Convolutional Neural Network (CNN)](https://github.com/mahfujur1/PyTorch-Tutorials/blob/master/cnn-training-mnist.ipynb) 
-  [Video](https://youtu.be/VdC6sdWWW74)
+  [[Video]](https://youtu.be/VdC6sdWWW74)
 
 
 ## Contact
